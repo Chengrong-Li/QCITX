@@ -1,0 +1,14 @@
+学习内容：
+1.创建 GitHub：https://github.com 个人账号，学习 git 和 GitHub 的基本使用（参考教程：https://www.liaoxuefeng.com/wiki/896043488029600 ）。
+2.本地安装合适的 Python 科学计算环境（推荐 Anaconda，参考教程：https://docs.anaconda.com/anaconda/install/ ），学习基本的 Python 语法和使用（参考教程：https://scipy-lectures.org/intro/ 1.1, 1.2, 1.4, 1.5）。
+3.安装腾讯自研量子软件框架 TensorCircuit：https://github.com/tencent-quantum-lab/tensorcircuit 。欢迎在 GitHub 上关注 TensorCircuit。尝试本地成功运行 TensorCircuit 的相关示例代码（如 python examples/universal_lr.py，参考程序 https://github.com/tencent-quantum-lab/tensorcircuit/blob/master/examples/univers... ）。
+4.阅读学习腾讯量子实验室专家为此次星火项目定制的量子计算和量子软件结合的入门线上教程：https://tensorcircuit-chinese.readthedocs.io/zh/latest/
+5.尽可能提前完成预习题目并理解相关概念和熟悉软件。预习题目：请参考附件 jupyter notebook（下载链接 https://drive.weixin.qq.com/s?k=AJEAlQdfAAocporE05 ，如下载有问题请联系小助手）。
+6.结合以上几项，在 GitHub 账号创建一个公开库：至少包含 LICENCE（推荐 MIT）文件，requirements.txt 文件和 README.md 文件及相应的上述预习题目的解答。
+7.结合以下材料和渠道
+a. 上述定制线上教程，
+b. TensorCircuit 量子软件完整文档：https://tensorcircuit.readthedocs.io ，
+c. 上述其他参考教程链接，
+d. 量子计算经典教材：Quantum Computation and Quantum Information (Michael A. Nielsen & Isaac L. Chuang)【中文版为《量子计算与量子信息》孙晓明等译】，
+e. Google 搜索到的更多高质量内容
+深化对 “附录列表” 中关键词概念的认识和理解（特别是编程方面的概念和方法）。可以考虑将学习过程中的思考，尝试和笔记也整理到 6 中创建的 GitHub 库中。
