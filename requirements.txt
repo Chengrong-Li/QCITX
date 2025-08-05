@@ -1,0 +1,32 @@
+# 星火量子方向预习题目 - Python 依赖包
+# Requirements file generated for 2025星火量子方向预习题目.ipynb
+
+# 基础科学计算包
+numpy==1.24.3
+matplotlib==3.10.0
+
+# 量子计算框架
+tensorcircuit==0.12.0
+
+# 机器学习后端（TensorCircuit支持）
+tensorflow==2.19.0
+# jax==0.4.23  # 可选，如果需要使用JAX后端取消注释
+# jaxlib==0.4.23  # 可选，JAX的依赖
+
+# 科学计算工具
+scipy==1.15.3
+
+# 张量网络优化（Grover搜索等高级应用）
+cotengra==0.6.0
+
+# Jupyter环境支持（如果在Jupyter中运行）
+jupyter==1.1.1
+ipykernel==6.29.5
+
+# 可视化增强
+seaborn==0.13.2  # 可选，用于更好的图表样式
+
+
+# 字体支持（中文显示）
+# 注意：在Windows系统上，通常已有SimHei字体支持
+# 如果在Linux/Mac上运行可能需要额外安装中文字体包
